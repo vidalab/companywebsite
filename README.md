@@ -1,3 +1,3 @@
-# griddashboard
+# Vida Lab Website
 
-See demo: https://dnprock.github.io/griddashboard/
+See live: http://vidalab.co/
